@@ -1,0 +1,17 @@
+.background-clip_border-box {
+    background: #FF0000;
+    background-clip: border-box;
+    border: 10px solid rgba(255, 0, 0, .5);
+}
+
+.background-clip_padding-box {
+    background: #FF0000;
+    background-clip: padding-box;
+    border: 10px solid rgba(255, 0, 0, .5);
+}
+
+.background-clip_content-box {
+    background: #FF0000;
+    background-clip: content-box;
+    border: 10px solid rgba(255, 0, 0, .5);
+}

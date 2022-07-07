@@ -1,5 +1,5 @@
 export const navbarEN = [
     {
-        text: 'Basis', link: '/basis/test'
+        text: 'Demo', link: '/demo/background-clip'
     }
 ]

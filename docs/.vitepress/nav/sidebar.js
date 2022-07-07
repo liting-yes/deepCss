@@ -1,10 +1,10 @@
 export const sidebarEN = {
-    '/basis/': [
+    '/demo/': [
         {
-            text: 'Test',
+            text: 'Basis',
             items: [
                 {
-                    text: 'test', link: '/basis/test'
+                    text: 'background', link: '/demo/background-clip'
                 }
             ]
         }
