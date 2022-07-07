@@ -1,0 +1,5 @@
+.background-postion_right-bottom {
+    background: url('../../../../../public/favicon-32.png') no-repeat green;
+    background-origin: padding-box;
+    background-position: right bottom;
+}

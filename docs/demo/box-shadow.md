@@ -4,23 +4,21 @@ element shadow effect
 
 ## attribute value
 
-- inset: control whether the shadow is inside or outside the element
+- `inset`: control whether the shadow is inside or outside the element
 
-- offset-x/offset-y: shadow offset
+- `offset-x`/`offset-y`: shadow offset
 
-- blur-radius: shadow blur area
+- `blur-radius`: shadow blur area
 
-- spread-radius: shadow spread
+- `spread-radius`: shadow spread
 
 ## demo
 
-### multiple borders
-
-<div class="demo-div box-shadow_multiple-border">Border Box</div>
+<div class="demo-div box-shadow_multiple-border">Box Shadow</div>
 
 ::: details Click me to view the code
 ```html
-<div class="demo-div box-shadow_multiple-border">Border Box</div>
+<div class="demo-div box-shadow_multiple-border">Box Shadow</div>
 ```
 
 ```css

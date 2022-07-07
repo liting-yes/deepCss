@@ -4,11 +4,11 @@ control element background color area
 
 ## attribute value
 
-- border-box: element background color touches border
+- `border-box`: element background color touches border
 
-- padding-box: element background color touches padding
+- `padding-box`: element background color touches padding
 
-- content-box: element background color touches content
+- `content-box`: element background color touches content
 
 ## demo
 
