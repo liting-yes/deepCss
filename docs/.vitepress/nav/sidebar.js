@@ -4,14 +4,22 @@ export const sidebarEN = {
             text: 'Basis',
             items: [
                 {
-                    text: 'background-clip', link: '/demo/background-clip'
+                    text: 'backgroundClip', link: '/demo/background-clip'
                 },
                 {
-                    text: 'background-position', link: '/demo/background-position'
+                    text: 'backgroundPosition', link: '/demo/background-position'
                 },
                 {
-                    text: 'box-shadow', link: '/demo/box-shadow'
+                    text: 'boxShadow', link: '/demo/box-shadow'
                 },
+            ]
+        },
+        {
+            text: 'Style',
+            items: [
+                {
+                    text: 'roundCornerInsideBorder', link: '/demo/round-corner-inside-border'
+                }
             ]
         }
     ]
