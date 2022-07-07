@@ -4,8 +4,11 @@ export const sidebarEN = {
             text: 'Basis',
             items: [
                 {
-                    text: 'background', link: '/demo/background-clip'
-                }
+                    text: 'background-clip', link: '/demo/background-clip'
+                },
+                {
+                    text: 'box-shadow', link: '/demo/box-shadow'
+                },
             ]
         }
     ]

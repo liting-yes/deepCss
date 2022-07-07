@@ -1,18 +1,14 @@
-# background-color scope
+# background-clip
 
-## `background-clip`
+control element background color area
 
-- border-box
+## attribute value
 
-element background color touches border
+- border-box: element background color touches border
 
-- padding-box
+- padding-box: element background color touches padding
 
-element background color touches padding
-
-- content-box
-
-element background color touches content
+- content-box: element background color touches content
 
 ## demo
 
