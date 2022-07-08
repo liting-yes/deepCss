@@ -12,6 +12,9 @@ export const sidebarEN = {
                 {
                     text: 'boxShadow', link: '/demo/box-shadow'
                 },
+                {
+                    text: 'repeatingLinearGradient', link: '/demo/repeating-linear-gradient'
+                }
             ]
         },
         {
