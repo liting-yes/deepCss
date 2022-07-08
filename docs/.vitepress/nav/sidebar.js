@@ -24,6 +24,14 @@ export const sidebarEN = {
                     text: 'roundCornerInsideBorder', link: '/demo/round-corner-inside-border'
                 }
             ]
+        },
+        {
+            text: 'Style',
+            items: [
+                {
+                    text: 'roundCornerInsideBorder', link: '/demo/round-corner-inside-border'
+                }
+            ]
         }
     ]
 }
