@@ -24,6 +24,9 @@ export const sidebarEN = {
                     text: 'grid', link: '/demo/grid'
                 },
                 {
+                    text: 'pseudorandomBackground', link: '/demo/pseudorandom-background'
+                },
+                {
                     text: 'roundCornerInsideBorder', link: '/demo/round-corner-inside-border'
                 },
             ]
