@@ -14,15 +14,18 @@ export const sidebarEN = {
                 },
                 {
                     text: 'repeatingLinearGradient', link: '/demo/repeating-linear-gradient'
-                }
+                },
             ]
         },
         {
             text: 'Style',
             items: [
                 {
+                    text: 'grid', link: '/demo/grid'
+                },
+                {
                     text: 'roundCornerInsideBorder', link: '/demo/round-corner-inside-border'
-                }
+                },
             ]
         }
     ]

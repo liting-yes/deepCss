@@ -3,4 +3,5 @@
 @import './basis/box-shadow.css';
 @import './basis/repeating-linear-gradient.css';
 
+@import './style/grid.css';
 @import './style/round-corner-inside-border.css';
