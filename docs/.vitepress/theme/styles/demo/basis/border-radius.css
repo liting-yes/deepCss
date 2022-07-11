@@ -1,0 +1,20 @@
+.border-radius_adaptibe-ellipse {
+  width: 300px;
+  height: 200px;
+  background: red;
+  border-radius: 50%;
+}
+
+.border-radius_half-ellipse {
+  width: 300px;
+  height: 200px;
+  background: green;
+  border-radius: 100% 0 0 100% / 50% 0 0 50%;
+}
+
+.border-radius_quarter-ellipse {
+  width: 300px;
+  height: 200px;
+  background: blue;
+  border-radius: 100% 0 0 0 / 100% 0 0 0;
+}

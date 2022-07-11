@@ -10,6 +10,9 @@ export const sidebarEN = {
           text: 'backgroundPosition', link: '/demo/background-position'
         },
         {
+          text: 'borderRadius', link: '/demo/border-radius'
+        },
+        {
           text: 'boxShadow', link: '/demo/box-shadow'
         },
         {
